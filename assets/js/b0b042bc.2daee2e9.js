@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{95:function(a){a.exports=JSON.parse('{"allTagsPath":"/laravelindonesia/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/laravelindonesia/blog/tags/hello"}')}}]);
