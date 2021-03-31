@@ -13,6 +13,8 @@ Saya sangat tidak menyarankan untuk langsung lompat kelas, bayangkan kamu masih 
 
 Nanti kalo sempat akan saya buatkan seri khusus php basic html basic dan css basic, semangat ngoding !!!
 
-## Step 2 Kalo sudah belajar php basic dan teman2 nya
+## Step 2 Kalo sudah belajar basic bagaimana ?
 
 Siapkan niat luangkan waktu anggaplah belajar laravel sekarang merupakan investasi jangka panjang, yang bisa jadi compounding interest untuk skill dan kemampuan anda dimasa depan, apa maksudnya ? maksudnya belajar sekarang bisa jadi tidak terasa banyak manfaatnya tetapi tetap konsisten belajar akan sangat besar manfaatnya untuk masa depan anda. Jadi tetap semangat bisa jadi lima atau sepuluh tahun lagi laravel sebagai framework sudah ga keren, udah ga mendominasi tapi anda dapat manfaat dari proses belajarnya, jadi nikmati proses nya ikuti perubahan jamannya, semangat ngoding !!!
+
+Mode belajar pada series ini dibuat "slow mode" step by step guide yang ada versi tulis, gambar dan video nya, video ada di channel youtube dosen ngoding silahkan di cek sendiri ya, kenapa slow mode karena tidak semua kita sanggup belajar dengan cepat entry level nya berbeda beda maka dari itu dibuatlah tutorial step by step yang bener2 slow mode kalo temen2 mau cepet bisa di skip atau di speed 2x di video youtube nya.
