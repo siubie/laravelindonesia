@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{94:function(a){a.exports=JSON.parse('{"allTagsPath":"/laravelindonesia/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/laravelindonesia/blog/tags/docusaurus"}')}}]);
