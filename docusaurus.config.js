@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "My Site",
-  tagline: "The tagline of my site",
+  title: "Laravel Tutorial Indonesia",
+  tagline: "Dosen Ngoding",
   url: "https://siubie.github.io",
   baseUrl: "/laravelindonesia/",
   onBrokenLinks: "throw",
@@ -11,10 +11,10 @@ module.exports = {
   projectName: "laravelindonesia", // Usually your repo name.
   themeConfig: {
     colorMode: {
-      defaultMode: "dark",
+      defaultMode: "light",
     },
     navbar: {
-      title: "My Site",
+      title: "Laravel Tutorial Indonesia",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -23,12 +23,17 @@ module.exports = {
         {
           to: "docs/",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "Mulai Belajar",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          to: "lisensi/",
+          activeBasePath: "lisensi",
+          label: "Lisensi",
+          position: "left",
+        },
+        {
+          href: "https://github.com/siubie/laravelindonesia",
           label: "GitHub",
           position: "right",
         },
