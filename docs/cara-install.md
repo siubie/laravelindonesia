@@ -12,6 +12,8 @@ title: Cara Install Laravel
 
 ### Gimana dengan Xampp
 
+![ninja meme](/img/ninja.png)
+
 Untuk development laravel saya lebih memilih setup manual masing masing stack php, mysql, composer, nodejs dan git. Kenapa ? karena dengan menggunakan stack yang diinstall sendiri anda akan lebih "dekat" dengan "console", nantinya ketika ngoding laravel bakalan banyak berinteraksi dengan console / terminal.
 
 Bukan tidak bisa tapi ini pilihan saja, jika anda masih belum siap untuk lompat ke console silahkan tetap menggunakan xampp ga masalah sama aja :D 
