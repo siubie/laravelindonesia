@@ -2,7 +2,7 @@
 module.exports = {
   title: "My Site",
   tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://siubie.github.io",
   baseUrl: "/laravelindonesia/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
