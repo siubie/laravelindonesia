@@ -66,4 +66,32 @@ Route::get('/', function () {
 });
 ```
 
+Kode program diatas maksudnya adalah ketika ada request http `get` ke url `/` maka akan di response dengan sebuah view yang bernama `welcome.blade.php` file view ini ada di folder `resources/views`
+
+Sekarang cobalah jalankan server laravel nya dengan menjalankan perintah ini di terminal
+
+```bash
+php artisan serve
+```
+
+![artisan serve](../static/img/artisan-serve.png)
+
+Dan lihatlah tampilan yang dikeluarkan ketika anda membuka local server anda di `http://localhost:8000`
+
+![hasil web](../static/img/welcome-page.png)
+
+Welcome page ini berbeda ada yang light mode ada yang dark mode bebas aja tergantung settingan browser.
+
 ## Pindahkan Template Ke Blade
+
+Selanjutnya untuk closing chapter ini kita akan memindahkan semua codingan html dari file `index.html` template laura yang sebelumnya sudah di download di [Bootstrapmade.com](https://bootstrapmade.com/laura-free-creative-bootstrap-theme/) ke file `welcome.blade.php` kemudian refresh browser.
+
+![Hasil baru](../static/img/result-web.png)
+
+Dan tadaa it works ya :D, kenapa kok bisa work ? ingat rule tentang folder public, bahwa semua file yang ada di folder public dapat diakses secara langsung melalui browser nah di template html yang tadi di copy dan paste ke welcome.blade.php adalah template yang sama yang dimiliki oleh template laura tadi. Jadi reference js, css, image dan vendor nya sama dengan yang ada di laravel.
+
+Tapi jangan senang dulu karena ini masih halaman statis ya dan masi pake satu routes. Untuk selanjutnya kita akan memodifikasi template ini agar lebih `dinamis` dengan bantuan laravel.
+
+Semangat Ngoding !!! :)
+
+

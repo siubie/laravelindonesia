@@ -12,8 +12,8 @@ module.exports = {
           items: [
             "intro-landing-page",
             "setup-project",
-            "basic-view",
             "basic-routing",
+            "basic-view",
             "basic-controller",
           ],
         },
